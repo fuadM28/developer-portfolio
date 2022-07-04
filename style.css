@@ -68,3 +68,10 @@ section {
     line-height: 25px;
     text-decoration: none;
 }
+
+.side-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+}
